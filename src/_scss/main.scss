@@ -1,0 +1,21 @@
+@import "~bootstrap/scss/bootstrap";
+
+#honeyLogo {
+  max-width: 200px;
+}
+
+input[type=text] {
+  margin: 10px;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+}
+
+#commments-box {
+  height: 200px;
+  width: 400px;
+  margin: 10px;
+}
+#insurance-box {
+  width: 400px;
+}
